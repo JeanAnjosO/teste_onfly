@@ -66,10 +66,10 @@ await addToCart(page, 'notebook');
 - CT06: Produto indisponível (mock)
 
 # Carrinho
+- CT07: Visualizar carrinho
 - CT09: Remover item do carrinho
 
 # Checkout
-- CT10: Finalizar compra com login existente (mock)
 - CT11: Finalizar compra sem login
 - CT12: Informar endereço válido
 - CT13: Informar endereço inválido
