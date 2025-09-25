@@ -1,0 +1,17 @@
+{
+  "name": "teste_onfly",
+  "version": "1.0.0",
+  "description": "Este projeto contém automações de teste do fluxo de compras em um e-commerce público utilizando **Playwright**.",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.55.1",
+    "@types/node": "^24.5.2"
+  }
+}
